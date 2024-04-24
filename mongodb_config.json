@@ -1,0 +1,8 @@
+{
+    "host": "localhost",   // MongoDB host address
+    "port": 27017,         // MongoDB port number
+    "username": "user",    // MongoDB username 
+    "password": "password",// MongoDB password 
+    "database": "amazon_metadata", // MongoDB database name
+    "collection": "processed_data" // MongoDB collection name to store the processed data
+}
